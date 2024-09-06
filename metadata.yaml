@@ -1,0 +1,36 @@
+_repo: Shipbuilding-from-its-beginnings-Vol-3-of-3_74362
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Konijnenburg, E. van (Emile)
+    aliases:
+    - Konijnenburg, Emile van
+    - Van Konijnenburg, E. (Emile)
+    birthdate: 1869
+    deathdate: 1956
+    gutenberg_agent_id: '57473'
+    url: http://www.gutenberg.org/2009/agents/57473
+description: ''
+gutenberg_issued: '2024-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74362'
+language: en
+pgterms:marc905: 20130512160444konijnenbu
+pgterms:marc906: '1913'
+pgterms:marc907: BE
+production_note: Chris Curnow, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBelgium :$bThe Permanent International Association of Congress
+  of Navigation, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipbuilding -- History'
+- !lcsh 'Ships -- History'
+- !lcc 'VM'
+- GITenberg
+title: Shipbuilding from its beginnings. Vol. 3 (of 3)
+url: http://www.gutenberg.org/ebooks/74362
